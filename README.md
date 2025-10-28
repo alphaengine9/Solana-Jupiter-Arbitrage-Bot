@@ -2,16 +2,6 @@
 
 A high-performance, real-time arbitrage bot for Solana that identifies and executes profitable price differences across multiple DEXs using gRPC, Jito bundles, and advanced MEV strategies.
 
-<div align="center">
-
-### Call Me
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/roswellecho)
-[![Twitter](https://img.shields.io/badge/Twitter-14171A?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/roswellecho)
-
-
-</div>
-
 ## Features
 
 - **Multi-DEX Arbitrage**: Supports Raydium, Orca, Serum, Aldrin, Saber, and Mercurial
@@ -290,10 +280,6 @@ let result = engine.execute_jupiter_swap(&opportunity, amount).await?;
 3. Make your changes
 4. Add tests
 5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Support
 
